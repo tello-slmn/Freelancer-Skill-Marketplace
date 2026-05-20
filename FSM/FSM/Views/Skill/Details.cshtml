@@ -1,0 +1,18 @@
+﻿@model Skill
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Skill Details</h1>
+<table class="table table-bordered table-striped">
+    <tr>
+        <td>Name</td>
+        <td>Skill Level</td>
+    </tr>
+    <tr>
+        <td>@Model.SkillName</td>
+        <td>@Model.SkillLevel</td>
+    </tr>
+</table>
+<a asp-controller="Home" asp-action="Index" class="btn btn-primary">Home</a>
+<a asp-controller="Skill" asp-action="Index" class="btn btn-dark">Back to List</a>
