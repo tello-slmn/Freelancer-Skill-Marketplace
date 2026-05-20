@@ -2,9 +2,9 @@
 {
     public class DB
     {
-        public static List<Skill> GetSkills()
+        public static IList<Skill> GetSkills()
         {
-            List<Skill> skills =
+            IList<Skill> skills =
             [
                 #region Skills
                 new Skill

@@ -1,7 +1,112 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\tello\\OneDrive\\Desktop\\OneDrive\\Documents\\Personal Projects\\tello-slmn\\Freelancer-Skill-Marketplace\\FSM\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F79CD658-2E43-2DA1-17D7-2C2A0723C2CD}|FSM\\FSM.csproj|c:\\users\\tello\\onedrive\\desktop\\onedrive\\documents\\personal projects\\tello-slmn\\freelancer-skill-marketplace\\fsm\\fsm\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F79CD658-2E43-2DA1-17D7-2C2A0723C2CD}|FSM\\FSM.csproj|solutionrelative:fsm\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79CD658-2E43-2DA1-17D7-2C2A0723C2CD}|FSM\\FSM.csproj|c:\\users\\tello\\onedrive\\desktop\\onedrive\\documents\\personal projects\\tello-slmn\\freelancer-skill-marketplace\\fsm\\fsm\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F79CD658-2E43-2DA1-17D7-2C2A0723C2CD}|FSM\\FSM.csproj|solutionrelative:fsm\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79CD658-2E43-2DA1-17D7-2C2A0723C2CD}|FSM\\FSM.csproj|c:\\users\\tello\\onedrive\\desktop\\onedrive\\documents\\personal projects\\tello-slmn\\freelancer-skill-marketplace\\fsm\\fsm\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79CD658-2E43-2DA1-17D7-2C2A0723C2CD}|FSM\\FSM.csproj|solutionrelative:fsm\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79CD658-2E43-2DA1-17D7-2C2A0723C2CD}|FSM\\FSM.csproj|c:\\users\\tello\\onedrive\\desktop\\onedrive\\documents\\personal projects\\tello-slmn\\freelancer-skill-marketplace\\fsm\\fsm\\views\\message\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F79CD658-2E43-2DA1-17D7-2C2A0723C2CD}|FSM\\FSM.csproj|solutionrelative:fsm\\views\\message\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79CD658-2E43-2DA1-17D7-2C2A0723C2CD}|FSM\\FSM.csproj|c:\\users\\tello\\onedrive\\desktop\\onedrive\\documents\\personal projects\\tello-slmn\\freelancer-skill-marketplace\\fsm\\fsm\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F79CD658-2E43-2DA1-17D7-2C2A0723C2CD}|FSM\\FSM.csproj|solutionrelative:fsm\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79CD658-2E43-2DA1-17D7-2C2A0723C2CD}|FSM\\FSM.csproj|c:\\users\\tello\\onedrive\\desktop\\onedrive\\documents\\personal projects\\tello-slmn\\freelancer-skill-marketplace\\fsm\\fsm\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79CD658-2E43-2DA1-17D7-2C2A0723C2CD}|FSM\\FSM.csproj|solutionrelative:fsm\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79CD658-2E43-2DA1-17D7-2C2A0723C2CD}|FSM\\FSM.csproj|c:\\users\\tello\\onedrive\\desktop\\onedrive\\documents\\personal projects\\tello-slmn\\freelancer-skill-marketplace\\fsm\\fsm\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F79CD658-2E43-2DA1-17D7-2C2A0723C2CD}|FSM\\FSM.csproj|solutionrelative:fsm\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79CD658-2E43-2DA1-17D7-2C2A0723C2CD}|FSM\\FSM.csproj|c:\\users\\tello\\onedrive\\desktop\\onedrive\\documents\\personal projects\\tello-slmn\\freelancer-skill-marketplace\\fsm\\fsm\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79CD658-2E43-2DA1-17D7-2C2A0723C2CD}|FSM\\FSM.csproj|solutionrelative:fsm\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79CD658-2E43-2DA1-17D7-2C2A0723C2CD}|FSM\\FSM.csproj|c:\\users\\tello\\onedrive\\desktop\\onedrive\\documents\\personal projects\\tello-slmn\\freelancer-skill-marketplace\\fsm\\fsm\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F79CD658-2E43-2DA1-17D7-2C2A0723C2CD}|FSM\\FSM.csproj|solutionrelative:fsm\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79CD658-2E43-2DA1-17D7-2C2A0723C2CD}|FSM\\FSM.csproj|c:\\users\\tello\\onedrive\\desktop\\onedrive\\documents\\personal projects\\tello-slmn\\freelancer-skill-marketplace\\fsm\\fsm\\models\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79CD658-2E43-2DA1-17D7-2C2A0723C2CD}|FSM\\FSM.csproj|solutionrelative:fsm\\models\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79CD658-2E43-2DA1-17D7-2C2A0723C2CD}|FSM\\FSM.csproj|c:\\users\\tello\\onedrive\\desktop\\onedrive\\documents\\personal projects\\tello-slmn\\freelancer-skill-marketplace\\fsm\\fsm\\models\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79CD658-2E43-2DA1-17D7-2C2A0723C2CD}|FSM\\FSM.csproj|solutionrelative:fsm\\models\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79CD658-2E43-2DA1-17D7-2C2A0723C2CD}|FSM\\FSM.csproj|c:\\users\\tello\\onedrive\\desktop\\onedrive\\documents\\personal projects\\tello-slmn\\freelancer-skill-marketplace\\fsm\\fsm\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F79CD658-2E43-2DA1-17D7-2C2A0723C2CD}|FSM\\FSM.csproj|solutionrelative:fsm\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79CD658-2E43-2DA1-17D7-2C2A0723C2CD}|FSM\\FSM.csproj|c:\\users\\tello\\onedrive\\desktop\\onedrive\\documents\\personal projects\\tello-slmn\\freelancer-skill-marketplace\\fsm\\fsm\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79CD658-2E43-2DA1-17D7-2C2A0723C2CD}|FSM\\FSM.csproj|solutionrelative:fsm\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79CD658-2E43-2DA1-17D7-2C2A0723C2CD}|FSM\\FSM.csproj|c:\\users\\tello\\onedrive\\desktop\\onedrive\\documents\\personal projects\\tello-slmn\\freelancer-skill-marketplace\\fsm\\fsm\\views\\project\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F79CD658-2E43-2DA1-17D7-2C2A0723C2CD}|FSM\\FSM.csproj|solutionrelative:fsm\\views\\project\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79CD658-2E43-2DA1-17D7-2C2A0723C2CD}|FSM\\FSM.csproj|c:\\users\\tello\\onedrive\\desktop\\onedrive\\documents\\personal projects\\tello-slmn\\freelancer-skill-marketplace\\fsm\\fsm\\views\\project\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F79CD658-2E43-2DA1-17D7-2C2A0723C2CD}|FSM\\FSM.csproj|solutionrelative:fsm\\views\\project\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79CD658-2E43-2DA1-17D7-2C2A0723C2CD}|FSM\\FSM.csproj|c:\\users\\tello\\onedrive\\desktop\\onedrive\\documents\\personal projects\\tello-slmn\\freelancer-skill-marketplace\\fsm\\fsm\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F79CD658-2E43-2DA1-17D7-2C2A0723C2CD}|FSM\\FSM.csproj|solutionrelative:fsm\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79CD658-2E43-2DA1-17D7-2C2A0723C2CD}|FSM\\FSM.csproj|c:\\users\\tello\\onedrive\\desktop\\onedrive\\documents\\personal projects\\tello-slmn\\freelancer-skill-marketplace\\fsm\\fsm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79CD658-2E43-2DA1-17D7-2C2A0723C2CD}|FSM\\FSM.csproj|solutionrelative:fsm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79CD658-2E43-2DA1-17D7-2C2A0723C2CD}|FSM\\FSM.csproj|c:\\users\\tello\\onedrive\\desktop\\onedrive\\documents\\personal projects\\tello-slmn\\freelancer-skill-marketplace\\fsm\\fsm\\fsm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F79CD658-2E43-2DA1-17D7-2C2A0723C2CD}|FSM\\FSM.csproj|solutionrelative:fsm\\fsm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79CD658-2E43-2DA1-17D7-2C2A0723C2CD}|FSM\\FSM.csproj|c:\\users\\tello\\onedrive\\desktop\\onedrive\\documents\\personal projects\\tello-slmn\\freelancer-skill-marketplace\\fsm\\fsm\\models\\viewmodels\\dashboardvewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79CD658-2E43-2DA1-17D7-2C2A0723C2CD}|FSM\\FSM.csproj|solutionrelative:fsm\\models\\viewmodels\\dashboardvewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79CD658-2E43-2DA1-17D7-2C2A0723C2CD}|FSM\\FSM.csproj|c:\\users\\tello\\onedrive\\desktop\\onedrive\\documents\\personal projects\\tello-slmn\\freelancer-skill-marketplace\\fsm\\fsm\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79CD658-2E43-2DA1-17D7-2C2A0723C2CD}|FSM\\FSM.csproj|solutionrelative:fsm\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79CD658-2E43-2DA1-17D7-2C2A0723C2CD}|FSM\\FSM.csproj|c:\\users\\tello\\onedrive\\desktop\\onedrive\\documents\\personal projects\\tello-slmn\\freelancer-skill-marketplace\\fsm\\fsm\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79CD658-2E43-2DA1-17D7-2C2A0723C2CD}|FSM\\FSM.csproj|solutionrelative:fsm\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79CD658-2E43-2DA1-17D7-2C2A0723C2CD}|FSM\\FSM.csproj|c:\\users\\tello\\onedrive\\desktop\\onedrive\\documents\\personal projects\\tello-slmn\\freelancer-skill-marketplace\\fsm\\fsm\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79CD658-2E43-2DA1-17D7-2C2A0723C2CD}|FSM\\FSM.csproj|solutionrelative:fsm\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79CD658-2E43-2DA1-17D7-2C2A0723C2CD}|FSM\\FSM.csproj|c:\\users\\tello\\onedrive\\desktop\\onedrive\\documents\\personal projects\\tello-slmn\\freelancer-skill-marketplace\\fsm\\fsm\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79CD658-2E43-2DA1-17D7-2C2A0723C2CD}|FSM\\FSM.csproj|solutionrelative:fsm\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79CD658-2E43-2DA1-17D7-2C2A0723C2CD}|FSM\\FSM.csproj|c:\\users\\tello\\onedrive\\desktop\\onedrive\\documents\\personal projects\\tello-slmn\\freelancer-skill-marketplace\\fsm\\fsm\\models\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79CD658-2E43-2DA1-17D7-2C2A0723C2CD}|FSM\\FSM.csproj|solutionrelative:fsm\\models\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79CD658-2E43-2DA1-17D7-2C2A0723C2CD}|FSM\\FSM.csproj|c:\\users\\tello\\onedrive\\desktop\\onedrive\\documents\\personal projects\\tello-slmn\\freelancer-skill-marketplace\\fsm\\fsm\\controllers\\skillcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79CD658-2E43-2DA1-17D7-2C2A0723C2CD}|FSM\\FSM.csproj|solutionrelative:fsm\\controllers\\skillcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F79CD658-2E43-2DA1-17D7-2C2A0723C2CD}|FSM\\FSM.csproj|c:\\users\\tello\\onedrive\\desktop\\onedrive\\documents\\personal projects\\tello-slmn\\freelancer-skill-marketplace\\fsm\\fsm\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F79CD658-2E43-2DA1-17D7-2C2A0723C2CD}|FSM\\FSM.csproj|solutionrelative:fsm\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +114,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +123,319 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\tello\\OneDrive\\Desktop\\OneDrive\\Documents\\Personal Projects\\tello-slmn\\Freelancer-Skill-Marketplace\\FSM\\FSM\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FSM\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\tello\\OneDrive\\Desktop\\OneDrive\\Documents\\Personal Projects\\tello-slmn\\Freelancer-Skill-Marketplace\\FSM\\FSM\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FSM\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-20T19:17:15.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\tello\\OneDrive\\Desktop\\OneDrive\\Documents\\Personal Projects\\tello-slmn\\Freelancer-Skill-Marketplace\\FSM\\FSM\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "FSM\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\tello\\OneDrive\\Desktop\\OneDrive\\Documents\\Personal Projects\\tello-slmn\\Freelancer-Skill-Marketplace\\FSM\\FSM\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "FSM\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-20T18:49:23.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tello\\OneDrive\\Desktop\\OneDrive\\Documents\\Personal Projects\\tello-slmn\\Freelancer-Skill-Marketplace\\FSM\\FSM\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FSM\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tello\\OneDrive\\Desktop\\OneDrive\\Documents\\Personal Projects\\tello-slmn\\Freelancer-Skill-Marketplace\\FSM\\FSM\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FSM\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-20T19:09:27.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\tello\\OneDrive\\Desktop\\OneDrive\\Documents\\Personal Projects\\tello-slmn\\Freelancer-Skill-Marketplace\\FSM\\FSM\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "FSM\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\tello\\OneDrive\\Desktop\\OneDrive\\Documents\\Personal Projects\\tello-slmn\\Freelancer-Skill-Marketplace\\FSM\\FSM\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "FSM\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T19:00:58.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\tello\\OneDrive\\Desktop\\OneDrive\\Documents\\Personal Projects\\tello-slmn\\Freelancer-Skill-Marketplace\\FSM\\FSM\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "FSM\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\tello\\OneDrive\\Desktop\\OneDrive\\Documents\\Personal Projects\\tello-slmn\\Freelancer-Skill-Marketplace\\FSM\\FSM\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "FSM\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T19:00:23.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tello\\OneDrive\\Desktop\\OneDrive\\Documents\\Personal Projects\\tello-slmn\\Freelancer-Skill-Marketplace\\FSM\\FSM\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "FSM\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tello\\OneDrive\\Desktop\\OneDrive\\Documents\\Personal Projects\\tello-slmn\\Freelancer-Skill-Marketplace\\FSM\\FSM\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "FSM\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-20T18:41:10.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tello\\OneDrive\\Desktop\\OneDrive\\Documents\\Personal Projects\\tello-slmn\\Freelancer-Skill-Marketplace\\FSM\\FSM\\Views\\Message\\Index.cshtml",
+              "RelativeDocumentMoniker": "FSM\\Views\\Message\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tello\\OneDrive\\Desktop\\OneDrive\\Documents\\Personal Projects\\tello-slmn\\Freelancer-Skill-Marketplace\\FSM\\FSM\\Views\\Message\\Index.cshtml",
+              "RelativeToolTip": "FSM\\Views\\Message\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-20T18:42:14.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MessageController.cs",
+              "DocumentMoniker": "C:\\Users\\tello\\OneDrive\\Desktop\\OneDrive\\Documents\\Personal Projects\\tello-slmn\\Freelancer-Skill-Marketplace\\FSM\\FSM\\Controllers\\MessageController.cs",
+              "RelativeDocumentMoniker": "FSM\\Controllers\\MessageController.cs",
+              "ToolTip": "C:\\Users\\tello\\OneDrive\\Desktop\\OneDrive\\Documents\\Personal Projects\\tello-slmn\\Freelancer-Skill-Marketplace\\FSM\\FSM\\Controllers\\MessageController.cs",
+              "RelativeToolTip": "FSM\\Controllers\\MessageController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T19:00:42.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\tello\\OneDrive\\Desktop\\OneDrive\\Documents\\Personal Projects\\tello-slmn\\Freelancer-Skill-Marketplace\\FSM\\FSM\\Models\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "FSM\\Models\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\tello\\OneDrive\\Desktop\\OneDrive\\Documents\\Personal Projects\\tello-slmn\\Freelancer-Skill-Marketplace\\FSM\\FSM\\Models\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "FSM\\Models\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T19:03:02.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\tello\\OneDrive\\Desktop\\OneDrive\\Documents\\Personal Projects\\tello-slmn\\Freelancer-Skill-Marketplace\\FSM\\FSM\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "FSM\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\tello\\OneDrive\\Desktop\\OneDrive\\Documents\\Personal Projects\\tello-slmn\\Freelancer-Skill-Marketplace\\FSM\\FSM\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "FSM\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-20T19:07:22.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\tello\\OneDrive\\Desktop\\OneDrive\\Documents\\Personal Projects\\tello-slmn\\Freelancer-Skill-Marketplace\\FSM\\FSM\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "FSM\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\tello\\OneDrive\\Desktop\\OneDrive\\Documents\\Personal Projects\\tello-slmn\\Freelancer-Skill-Marketplace\\FSM\\FSM\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "FSM\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-20T18:50:08.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\tello\\OneDrive\\Desktop\\OneDrive\\Documents\\Personal Projects\\tello-slmn\\Freelancer-Skill-Marketplace\\FSM\\FSM\\Models\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "FSM\\Models\\ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\tello\\OneDrive\\Desktop\\OneDrive\\Documents\\Personal Projects\\tello-slmn\\Freelancer-Skill-Marketplace\\FSM\\FSM\\Models\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "FSM\\Models\\ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T19:03:39.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\tello\\OneDrive\\Desktop\\OneDrive\\Documents\\Personal Projects\\tello-slmn\\Freelancer-Skill-Marketplace\\FSM\\FSM\\Views\\Project\\Create.cshtml",
+              "RelativeDocumentMoniker": "FSM\\Views\\Project\\Create.cshtml",
+              "ToolTip": "C:\\Users\\tello\\OneDrive\\Desktop\\OneDrive\\Documents\\Personal Projects\\tello-slmn\\Freelancer-Skill-Marketplace\\FSM\\FSM\\Views\\Project\\Create.cshtml",
+              "RelativeToolTip": "FSM\\Views\\Project\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-20T18:25:22.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tello\\OneDrive\\Desktop\\OneDrive\\Documents\\Personal Projects\\tello-slmn\\Freelancer-Skill-Marketplace\\FSM\\FSM\\Views\\Project\\Index.cshtml",
+              "RelativeDocumentMoniker": "FSM\\Views\\Project\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tello\\OneDrive\\Desktop\\OneDrive\\Documents\\Personal Projects\\tello-slmn\\Freelancer-Skill-Marketplace\\FSM\\FSM\\Views\\Project\\Index.cshtml",
+              "RelativeToolTip": "FSM\\Views\\Project\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-20T19:05:29.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\tello\\OneDrive\\Desktop\\OneDrive\\Documents\\Personal Projects\\tello-slmn\\Freelancer-Skill-Marketplace\\FSM\\FSM\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "FSM\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\tello\\OneDrive\\Desktop\\OneDrive\\Documents\\Personal Projects\\tello-slmn\\Freelancer-Skill-Marketplace\\FSM\\FSM\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "FSM\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-20T19:07:21.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tello\\OneDrive\\Desktop\\OneDrive\\Documents\\Personal Projects\\tello-slmn\\Freelancer-Skill-Marketplace\\FSM\\FSM\\Program.cs",
+              "RelativeDocumentMoniker": "FSM\\Program.cs",
+              "ToolTip": "C:\\Users\\tello\\OneDrive\\Desktop\\OneDrive\\Documents\\Personal Projects\\tello-slmn\\Freelancer-Skill-Marketplace\\FSM\\FSM\\Program.cs",
+              "RelativeToolTip": "FSM\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T19:06:19.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FSM.csproj",
+              "DocumentMoniker": "C:\\Users\\tello\\OneDrive\\Desktop\\OneDrive\\Documents\\Personal Projects\\tello-slmn\\Freelancer-Skill-Marketplace\\FSM\\FSM\\FSM.csproj",
+              "RelativeDocumentMoniker": "FSM\\FSM.csproj",
+              "ToolTip": "C:\\Users\\tello\\OneDrive\\Desktop\\OneDrive\\Documents\\Personal Projects\\tello-slmn\\Freelancer-Skill-Marketplace\\FSM\\FSM\\FSM.csproj",
+              "RelativeToolTip": "FSM\\FSM.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-20T19:05:56.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DashboardVewModel.cs",
+              "DocumentMoniker": "C:\\Users\\tello\\OneDrive\\Desktop\\OneDrive\\Documents\\Personal Projects\\tello-slmn\\Freelancer-Skill-Marketplace\\FSM\\FSM\\Models\\ViewModels\\DashboardVewModel.cs",
+              "RelativeDocumentMoniker": "FSM\\Models\\ViewModels\\DashboardVewModel.cs",
+              "ToolTip": "C:\\Users\\tello\\OneDrive\\Desktop\\OneDrive\\Documents\\Personal Projects\\tello-slmn\\Freelancer-Skill-Marketplace\\FSM\\FSM\\Models\\ViewModels\\DashboardVewModel.cs",
+              "RelativeToolTip": "FSM\\Models\\ViewModels\\DashboardVewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T19:04:22.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\tello\\OneDrive\\Desktop\\OneDrive\\Documents\\Personal Projects\\tello-slmn\\Freelancer-Skill-Marketplace\\FSM\\FSM\\Models\\Message.cs",
+              "RelativeDocumentMoniker": "FSM\\Models\\Message.cs",
+              "ToolTip": "C:\\Users\\tello\\OneDrive\\Desktop\\OneDrive\\Documents\\Personal Projects\\tello-slmn\\Freelancer-Skill-Marketplace\\FSM\\FSM\\Models\\Message.cs",
+              "RelativeToolTip": "FSM\\Models\\Message.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T18:43:37.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\tello\\OneDrive\\Desktop\\OneDrive\\Documents\\Personal Projects\\tello-slmn\\Freelancer-Skill-Marketplace\\FSM\\FSM\\Models\\User.cs",
+              "RelativeDocumentMoniker": "FSM\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\tello\\OneDrive\\Desktop\\OneDrive\\Documents\\Personal Projects\\tello-slmn\\Freelancer-Skill-Marketplace\\FSM\\FSM\\Models\\User.cs",
+              "RelativeToolTip": "FSM\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T19:01:30.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProjectController.cs",
+              "DocumentMoniker": "C:\\Users\\tello\\OneDrive\\Desktop\\OneDrive\\Documents\\Personal Projects\\tello-slmn\\Freelancer-Skill-Marketplace\\FSM\\FSM\\Controllers\\ProjectController.cs",
+              "RelativeDocumentMoniker": "FSM\\Controllers\\ProjectController.cs",
+              "ToolTip": "C:\\Users\\tello\\OneDrive\\Desktop\\OneDrive\\Documents\\Personal Projects\\tello-slmn\\Freelancer-Skill-Marketplace\\FSM\\FSM\\Controllers\\ProjectController.cs",
+              "RelativeToolTip": "FSM\\Controllers\\ProjectController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T18:59:24.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Skill.cs",
+              "DocumentMoniker": "C:\\Users\\tello\\OneDrive\\Desktop\\OneDrive\\Documents\\Personal Projects\\tello-slmn\\Freelancer-Skill-Marketplace\\FSM\\FSM\\Models\\Skill.cs",
+              "RelativeDocumentMoniker": "FSM\\Models\\Skill.cs",
+              "ToolTip": "C:\\Users\\tello\\OneDrive\\Desktop\\OneDrive\\Documents\\Personal Projects\\tello-slmn\\Freelancer-Skill-Marketplace\\FSM\\FSM\\Models\\Skill.cs",
+              "RelativeToolTip": "FSM\\Models\\Skill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T18:27:54.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DB.cs",
+              "DocumentMoniker": "C:\\Users\\tello\\OneDrive\\Desktop\\OneDrive\\Documents\\Personal Projects\\tello-slmn\\Freelancer-Skill-Marketplace\\FSM\\FSM\\Models\\DB.cs",
+              "RelativeDocumentMoniker": "FSM\\Models\\DB.cs",
+              "ToolTip": "C:\\Users\\tello\\OneDrive\\Desktop\\OneDrive\\Documents\\Personal Projects\\tello-slmn\\Freelancer-Skill-Marketplace\\FSM\\FSM\\Models\\DB.cs",
+              "RelativeToolTip": "FSM\\Models\\DB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T18:27:12.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SkillController.cs",
+              "DocumentMoniker": "C:\\Users\\tello\\OneDrive\\Desktop\\OneDrive\\Documents\\Personal Projects\\tello-slmn\\Freelancer-Skill-Marketplace\\FSM\\FSM\\Controllers\\SkillController.cs",
+              "RelativeDocumentMoniker": "FSM\\Controllers\\SkillController.cs",
+              "ToolTip": "C:\\Users\\tello\\OneDrive\\Desktop\\OneDrive\\Documents\\Personal Projects\\tello-slmn\\Freelancer-Skill-Marketplace\\FSM\\FSM\\Controllers\\SkillController.cs",
+              "RelativeToolTip": "FSM\\Controllers\\SkillController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T18:27:05.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\tello\\OneDrive\\Desktop\\OneDrive\\Documents\\Personal Projects\\tello-slmn\\Freelancer-Skill-Marketplace\\FSM\\FSM\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "FSM\\Models\\Project.cs",
+              "ToolTip": "C:\\Users\\tello\\OneDrive\\Desktop\\OneDrive\\Documents\\Personal Projects\\tello-slmn\\Freelancer-Skill-Marketplace\\FSM\\FSM\\Models\\Project.cs",
+              "RelativeToolTip": "FSM\\Models\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T18:26:53.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\tello\\OneDrive\\Desktop\\OneDrive\\Documents\\Personal Projects\\tello-slmn\\Freelancer-Skill-Marketplace\\FSM\\FSM\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FSM\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\tello\\OneDrive\\Desktop\\OneDrive\\Documents\\Personal Projects\\tello-slmn\\Freelancer-Skill-Marketplace\\FSM\\FSM\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FSM\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T18:27:02.305Z"
             }
           ]
         }

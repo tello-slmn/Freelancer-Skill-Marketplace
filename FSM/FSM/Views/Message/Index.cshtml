@@ -1,0 +1,29 @@
+﻿@model IEnumerable<Message>
+
+@{
+    ViewData["Title"] = "Messages";
+}
+
+<div class="container mt-4">
+    <h1><i class="fa-solid fa-envelope"></i> Messages</h1>
+
+    <table class="table table-striped">
+        <thead class="table-dark">
+            <tr>
+                <th>From</th>
+                <th>Subject</th>
+                <th>Date</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var msg in Model)
+            {
+                <tr>
+                    <td>@msg.MessageSender</td>
+                    <td>@msg.Content</td>
+                    <td>@msg.Timestamp.ToString("g")</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

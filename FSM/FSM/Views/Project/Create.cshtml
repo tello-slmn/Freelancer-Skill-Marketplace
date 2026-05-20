@@ -1,0 +1,25 @@
+﻿@model Project
+@{
+    ViewData["Title"] = "Post Project";
+}
+
+<div class="container mt-4">
+    <h1><i class="fa-solid fa-handshake"></i> Post a Project</h1>
+    <form asp-action="Create" method="post">
+        <div class="mb-3">
+            <label class="form-label">Project Title</label>
+            <input asp-for="ProjectName" class="form-control" />
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Description</label>
+            <textarea asp-for="Description" class="form-control"></textarea>
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Budget</label>
+            <input asp-for="Budget" class="form-control" />
+        </div>
+        <button type="submit" class="btn btn-primary">
+            <i class="fa-solid fa-plus"></i> Submit Project
+        </button>
+    </form>
+</div>
