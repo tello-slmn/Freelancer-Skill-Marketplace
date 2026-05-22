@@ -1,7 +1,7 @@
 ﻿@model IEnumerable<Skill>
 
 @{
-    ViewData["Title"] = "Browse Skills";
+    ViewData["Title"] = "Skills";
 }
 
 <div class="container mt-4">
@@ -18,23 +18,4 @@
             </button>
         </div>
     </form>
-
-    <!-- Skills table -->
-    <table class="table table-striped table-hover">
-        <thead class="table-dark">
-            <tr>
-                <th>Skill Name</th>
-                <th>Level</th>
-            </tr>
-        </thead>
-        <tbody>
-            @foreach (var skill in Model)
-            {
-                <tr>
-                    <td>@skill.SkillName</td>
-                    <td>@skill.SkillLevel</td>
-                </tr>
-            }
-        </tbody>
-    </table>
 </div>

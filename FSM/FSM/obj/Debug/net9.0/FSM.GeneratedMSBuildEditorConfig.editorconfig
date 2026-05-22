@@ -28,16 +28,32 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/tello/OneDrive/Desktop/OneDrive/Documents/Personal Projects/tello-slmn/Freelancer-Skill-Marketplace/FSM/FSM/Views/Dashboard/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXEluZGV4LmNzaHRtbA==
+[C:/Users/tello/OneDrive/Desktop/OneDrive/Documents/Personal Projects/tello-slmn/Freelancer-Skill-Marketplace/FSM/FSM/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tello/OneDrive/Desktop/OneDrive/Documents/Personal Projects/tello-slmn/Freelancer-Skill-Marketplace/FSM/FSM/Views/Client/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tello/OneDrive/Desktop/OneDrive/Documents/Personal Projects/tello-slmn/Freelancer-Skill-Marketplace/FSM/FSM/Views/Contract/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udHJhY3RcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tello/OneDrive/Desktop/OneDrive/Documents/Personal Projects/tello-slmn/Freelancer-Skill-Marketplace/FSM/FSM/Views/Freelancer/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRnJlZWxhbmNlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tello/OneDrive/Desktop/OneDrive/Documents/Personal Projects/tello-slmn/Freelancer-Skill-Marketplace/FSM/FSM/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tello/OneDrive/Desktop/OneDrive/Documents/Personal Projects/tello-slmn/Freelancer-Skill-Marketplace/FSM/FSM/Views/Home/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/tello/OneDrive/Desktop/OneDrive/Documents/Personal Projects/tello-slmn/Freelancer-Skill-Marketplace/FSM/FSM/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/tello/OneDrive/Desktop/OneDrive/Documents/Personal Projects/tello-slmn/Freelancer-Skill-Marketplace/FSM/FSM/Views/Message/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVzc2FnZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/tello/OneDrive/Desktop/OneDrive/Documents/Personal Projects/tello-slmn/Freelancer-Skill-Marketplace/FSM/FSM/Views/Project/Create.cshtml]
@@ -46,6 +62,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/tello/OneDrive/Desktop/OneDrive/Documents/Personal Projects/tello-slmn/Freelancer-Skill-Marketplace/FSM/FSM/Views/Project/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tello/OneDrive/Desktop/OneDrive/Documents/Personal Projects/tello-slmn/Freelancer-Skill-Marketplace/FSM/FSM/Views/Proposal/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvcG9zYWxcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/tello/OneDrive/Desktop/OneDrive/Documents/Personal Projects/tello-slmn/Freelancer-Skill-Marketplace/FSM/FSM/Views/Shared/_Layout.cshtml]

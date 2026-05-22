@@ -1,21 +1,17 @@
-﻿using System.ComponentModel.DataAnnotations;
-
-namespace FSM.Models
+﻿namespace FSM.Models
 {
     public class Project
     {
         public int ProjectID { get; set; }
+        public string ProjectTitle { get; set; }
+        public string ProjectDescription { get; set; }
+        public decimal ProjectBudget { get; set; }
+        public bool ProjectStatus { get; set; }
+        public DateTime ProjectPostedDate { get; set; }
+        public int ClientID { get; set; }
 
-        [Required(ErrorMessage = "Please enter project name.")]
-        public string ProjectName { get; set; }
-
-        [Required(ErrorMessage = "Please enter project description.")]
-        public string Description { get; set; }
-
-        [Required(ErrorMessage = "Please enter project budget.")]
-        [Range(0, double.MaxValue, ErrorMessage = "Budget must be a positive number.")]
-        public decimal Budget { get; set; }
-
-        public bool Status { get; set; } = false; // Default to false (not completed)
+        public Client Client { get; set; }
+        public ICollection<Proposal> Proposals { get; set; }
+        public ICollection<Contract> Contracts { get; set; }
     }
 }

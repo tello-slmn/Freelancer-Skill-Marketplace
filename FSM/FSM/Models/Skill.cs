@@ -1,19 +1,14 @@
-﻿namespace FSM.Models
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace FSM.Models
 {
     public class Skill
     {
         public int SkillID { get; set; }
         public string SkillName { get; set; }
-        public Level SkillLevel { get; set; }
+        public int CategoryID { get; set; }
 
-        //User
-    }
-
-    public enum Level
-    {
-        Beginner,
-        Intermediate,
-        Advanced,
-        Expert
+        public Category Category { get; set; }
+        public ICollection<FreelancerSkill> FreelancerSkills { get; set; }
     }
 }

@@ -1,0 +1,41 @@
+﻿@{
+    ViewData["Title"] = "Contact";
+}
+
+<div class="container mt-4">
+    <h1 class="text-center mb-4">
+        <i class="fa-solid fa-envelope"></i> Contact Us
+    </h1>
+
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="card shadow-sm">
+                <div class="card-body">
+                    <form asp-action="Contact" method="post">
+                        <div class="mb-3">
+                            <label class="form-label">Name</label>
+                            <input type="text" name="Name" class="form-control" required />
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label">Email</label>
+                            <input type="email" name="Email" class="form-control" required />
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label">Message</label>
+                            <textarea name="Message" class="form-control" rows="5" required></textarea>
+                        </div>
+                        <button type="submit" class="btn btn-primary">
+                            <i class="fa-solid fa-paper-plane"></i> Send Message
+                        </button>
+                    </form>
+                </div>
+                <div class="card-footer text-center">
+                    <p>
+                        <i class="fa-solid fa-phone"></i> +27 12 345 6789<br />
+                        <i class="fa-solid fa-location-dot"></i> Bloemfontein, Free State, South Africa
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

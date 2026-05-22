@@ -1,0 +1,57 @@
+﻿@model IEnumerable<Freelancer>
+@{
+    ViewData["Title"] = "Freelancer";
+}
+
+<h1 class="mb-4 text-center">
+    <i class="fa-solid fa-magnifying-glass"></i> Freelancers
+</h1>
+
+<!-- Search bar -->
+<form asp-controller="" asp-action="" method="get" class="mb-4">
+    <div class="input-group">
+        <input type="text" name="searchString" class="form-control" placeholder="Search freelancers..." />
+        <button type="submit" class="btn btn-primary">
+            <i class="fa-solid fa-search"></i> Search
+        </button>
+    </div>
+</form>
+
+<div class="container mt-4">
+    <h1 class="mb-4 text-center">
+        <i class="fa-solid fa-users"></i> Freelancers
+    </h1>
+
+    <div class="row">
+        @foreach (var f in Model)
+        {
+            <div class="col-md-3 mb-4">
+                <div class="card h-100 shadow-sm">
+                    <div class="card-body text-center">
+                        <i class="fa-solid fa-user-circle fa-3x text-secondary mb-3"></i>
+                        <h5 class="card-title">@f.FreelancerLName, @f.FreelancerFName</h5>
+                        <p class="card-text">@f.FreelancerBio</p>
+                        <p><strong>Email:</strong> @f.FreelancerEmail</p>
+                        @*<p><strong>Skills:</strong></p>
+                        <ul class="list-unstyled">
+                            @foreach (var skill in f.FreelancerSkills)
+                            {
+                                <li><i class="fa-solid fa-check text-success"></i> @skill.Skill.SkillName (@skill.ProficiencyLevel)</li>
+                            }
+                        </ul>*@
+                    </div>
+                    <div class="card-footer text-center">
+                        <a asp-controller="Messages" asp-action="Create" asp-route-id="@f.FreelancerID"
+                           class="btn btn-outline-success btn-sm">
+                            <i class="fa-solid fa-envelope"></i> Message
+                        </a>
+                        <a asp-controller="Freelancers" asp-action="Details" asp-route-id="@f.FreelancerID"
+                           class="btn btn-primary btn-sm">
+                            <i class="fa-solid fa-eye"></i> View Profile
+                        </a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>

@@ -2,14 +2,10 @@
 
 namespace FSM.Controllers
 {
-    public class MessageController : Controller
+    public class ContractController : Controller
     {
+        // Create contracts from accepted proposals, track progress, mark complete
         public IActionResult Index()
-        {
-            return View();
-        }
-
-        public IActionResult Create()
         {
             return View();
         }

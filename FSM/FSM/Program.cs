@@ -1,3 +1,5 @@
+using FSM.Data;
+
 namespace FSM
 {
     public class Program
@@ -6,6 +8,10 @@ namespace FSM
         {
             var builder = WebApplication.CreateBuilder(args);
             builder.Services.AddControllersWithViews();
+            builder.Services.AddScoped<IProjectRepository, ProjectRepository>();
+            builder.Services.AddScoped<IFreelancerRepository, FreelancerRepository>();
+            builder.Services.AddScoped<ISkillRepository, SkillRepository>();
+            builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
 
             var app = builder.Build();
             app.UseStaticFiles();
