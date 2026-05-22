@@ -198,7 +198,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -234,37 +234,7 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Client.cs",
-              "DocumentMoniker": "C:\\Users\\tello\\OneDrive\\Desktop\\OneDrive\\Documents\\Personal Projects\\tello-slmn\\Freelancer-Skill-Marketplace\\FSM\\FSM\\Models\\Client.cs",
-              "RelativeDocumentMoniker": "FSM\\Models\\Client.cs",
-              "ToolTip": "C:\\Users\\tello\\OneDrive\\Desktop\\OneDrive\\Documents\\Personal Projects\\tello-slmn\\Freelancer-Skill-Marketplace\\FSM\\FSM\\Models\\Client.cs",
-              "RelativeToolTip": "FSM\\Models\\Client.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAIAwwAwAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-22T14:22:34.36Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\tello\\OneDrive\\Desktop\\OneDrive\\Documents\\Personal Projects\\tello-slmn\\Freelancer-Skill-Marketplace\\FSM\\FSM\\Views\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "FSM\\Views\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\tello\\OneDrive\\Desktop\\OneDrive\\Documents\\Personal Projects\\tello-slmn\\Freelancer-Skill-Marketplace\\FSM\\FSM\\Views\\Account\\Login.cshtml",
-              "RelativeToolTip": "FSM\\Views\\Account\\Login.cshtml",
-              "ViewState": "AgIAABYAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-22T15:27:37.761Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -276,8 +246,7 @@
               "RelativeToolTip": "FSM\\Views\\Account\\Register.cshtml",
               "ViewState": "AgIAABsAAAAAAAAAAAAAACoAAABdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-22T15:27:39.889Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-22T15:27:39.889Z"
             },
             {
               "$type": "Document",
@@ -302,8 +271,7 @@
               "RelativeToolTip": "FSM\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-20T14:39:20.185Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-20T14:39:20.185Z"
             },
             {
               "$type": "Document",
@@ -315,8 +283,7 @@
               "RelativeToolTip": "FSM\\Models\\ViewModels\\RegisterViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-22T18:47:18.632Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-22T18:47:18.632Z"
             },
             {
               "$type": "Document",
@@ -328,8 +295,7 @@
               "RelativeToolTip": "FSM\\Views\\Home\\Contact.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-22T15:41:52.26Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-22T15:41:52.26Z"
             },
             {
               "$type": "Document",
@@ -341,8 +307,35 @@
               "RelativeToolTip": "FSM\\Views\\Home\\About.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-22T15:43:43.306Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-22T15:43:43.306Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\tello\\OneDrive\\Desktop\\OneDrive\\Documents\\Personal Projects\\tello-slmn\\Freelancer-Skill-Marketplace\\FSM\\FSM\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "FSM\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\tello\\OneDrive\\Desktop\\OneDrive\\Documents\\Personal Projects\\tello-slmn\\Freelancer-Skill-Marketplace\\FSM\\FSM\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "FSM\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-22T15:27:37.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\tello\\OneDrive\\Desktop\\OneDrive\\Documents\\Personal Projects\\tello-slmn\\Freelancer-Skill-Marketplace\\FSM\\FSM\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "FSM\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\tello\\OneDrive\\Desktop\\OneDrive\\Documents\\Personal Projects\\tello-slmn\\Freelancer-Skill-Marketplace\\FSM\\FSM\\Models\\Client.cs",
+              "RelativeToolTip": "FSM\\Models\\Client.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAIAwwAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T14:22:34.36Z"
             },
             {
               "$type": "Document",
@@ -354,8 +347,7 @@
               "RelativeToolTip": "FSM\\Models\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-22T17:26:44.257Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-22T17:26:44.257Z"
             },
             {
               "$type": "Document",
@@ -367,8 +359,7 @@
               "RelativeToolTip": "FSM\\Views\\Freelancer\\Index.cshtml",
               "ViewState": "AgIAABgAAAAAAAAAAAAAACcAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-22T14:57:51.616Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-22T14:57:51.616Z"
             },
             {
               "$type": "Document",
@@ -380,8 +371,7 @@
               "RelativeToolTip": "FSM\\Data\\FreelancerRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAADhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-22T16:08:43.949Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-22T16:08:43.949Z"
             },
             {
               "$type": "Document",
@@ -393,8 +383,7 @@
               "RelativeToolTip": "FSM\\Models\\Freelancer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-22T14:34:06.521Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-22T14:34:06.521Z"
             },
             {
               "$type": "Document",
@@ -406,8 +395,7 @@
               "RelativeToolTip": "FSM\\Models\\Project.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAxwAkAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-20T16:34:32.238Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-20T16:34:32.238Z"
             },
             {
               "$type": "Document",
@@ -419,8 +407,7 @@
               "RelativeToolTip": "FSM\\Views\\Skill\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-20T17:08:45.827Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-20T17:08:45.827Z"
             },
             {
               "$type": "Document",
@@ -432,8 +419,7 @@
               "RelativeToolTip": "FSM\\Views\\Project\\Index.cshtml",
               "ViewState": "AgIAACEAAAAAAAAAAAAAACsAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-22T15:31:25.552Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-22T15:31:25.552Z"
             },
             {
               "$type": "Document",
@@ -445,8 +431,7 @@
               "RelativeToolTip": "FSM\\Views\\Project\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-22T15:32:00.836Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-22T15:32:00.836Z"
             },
             {
               "$type": "Document",
@@ -458,8 +443,7 @@
               "RelativeToolTip": "FSM\\Data\\CategoryRepository.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-22T17:31:46.06Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-22T17:31:46.06Z"
             },
             {
               "$type": "Document",
@@ -471,8 +455,7 @@
               "RelativeToolTip": "FSM\\Models\\FreelancerSkill.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-22T18:10:18.978Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-22T18:10:18.978Z"
             },
             {
               "$type": "Document",
@@ -484,8 +467,7 @@
               "RelativeToolTip": "FSM\\Models\\Skill.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-20T16:26:04.962Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-20T16:26:04.962Z"
             },
             {
               "$type": "Document",
@@ -497,8 +479,7 @@
               "RelativeToolTip": "FSM\\Data\\ProjectRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-22T16:18:12.625Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-22T16:18:12.625Z"
             },
             {
               "$type": "Document",
@@ -510,8 +491,7 @@
               "RelativeToolTip": "FSM\\Data\\SkillRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-22T17:01:57.865Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-22T17:01:57.865Z"
             },
             {
               "$type": "Document",
@@ -523,8 +503,7 @@
               "RelativeToolTip": "FSM\\Models\\Proposal.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-22T14:36:54.845Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-22T14:36:54.845Z"
             },
             {
               "$type": "Document",
@@ -536,8 +515,7 @@
               "RelativeToolTip": "FSM\\Models\\Contract.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-22T14:50:28.583Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-22T14:50:28.583Z"
             },
             {
               "$type": "Document",
@@ -549,8 +527,7 @@
               "RelativeToolTip": "FSM\\Controllers\\ProjectController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-22T15:02:08.161Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-22T15:02:08.161Z"
             },
             {
               "$type": "Document",
@@ -562,8 +539,7 @@
               "RelativeToolTip": "FSM\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-20T14:39:05.876Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-20T14:39:05.876Z"
             },
             {
               "$type": "Document",
@@ -575,8 +551,7 @@
               "RelativeToolTip": "FSM\\Controllers\\FreelancerController.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-22T14:54:47.582Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-22T14:54:47.582Z"
             },
             {
               "$type": "Document",
@@ -588,8 +563,7 @@
               "RelativeToolTip": "FSM\\Controllers\\SkillController.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAkwAcAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-20T16:29:37.208Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-20T16:29:37.208Z"
             },
             {
               "$type": "Document",
@@ -601,8 +575,7 @@
               "RelativeToolTip": "FSM\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAYwA0AAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-20T14:40:25.63Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-20T14:40:25.63Z"
             },
             {
               "$type": "Document",
@@ -614,8 +587,7 @@
               "RelativeToolTip": "FSM\\Data\\ICategory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-22T17:28:55.1Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-22T17:28:55.1Z"
             },
             {
               "$type": "Document",
@@ -627,8 +599,7 @@
               "RelativeToolTip": "FSM\\Data\\IFreelancerRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-22T16:08:09.931Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-22T16:08:09.931Z"
             },
             {
               "$type": "Document",
@@ -640,8 +611,7 @@
               "RelativeToolTip": "FSM\\Data\\ISkillRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-22T17:01:04.396Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-22T17:01:04.396Z"
             },
             {
               "$type": "Document",

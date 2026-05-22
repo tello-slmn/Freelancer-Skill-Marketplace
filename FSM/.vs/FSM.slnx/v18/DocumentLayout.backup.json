@@ -198,7 +198,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Bookmark",
@@ -231,6 +231,10 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
             {
               "$type": "Bookmark",
@@ -268,8 +272,8 @@
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\tello\\OneDrive\\Desktop\\OneDrive\\Documents\\Personal Projects\\tello-slmn\\Freelancer-Skill-Marketplace\\FSM\\FSM\\Views\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "FSM\\Views\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\tello\\OneDrive\\Desktop\\OneDrive\\Documents\\Personal Projects\\tello-slmn\\Freelancer-Skill-Marketplace\\FSM\\FSM\\Views\\Account\\Register.cshtml*",
-              "RelativeToolTip": "FSM\\Views\\Account\\Register.cshtml*",
+              "ToolTip": "C:\\Users\\tello\\OneDrive\\Desktop\\OneDrive\\Documents\\Personal Projects\\tello-slmn\\Freelancer-Skill-Marketplace\\FSM\\FSM\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "FSM\\Views\\Account\\Register.cshtml",
               "ViewState": "AgIAABsAAAAAAAAAAAAAACoAAABdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-05-22T15:27:39.889Z",
@@ -281,8 +285,8 @@
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\tello\\OneDrive\\Desktop\\OneDrive\\Documents\\Personal Projects\\tello-slmn\\Freelancer-Skill-Marketplace\\FSM\\FSM\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "FSM\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\tello\\OneDrive\\Desktop\\OneDrive\\Documents\\Personal Projects\\tello-slmn\\Freelancer-Skill-Marketplace\\FSM\\FSM\\Views\\Shared\\_Layout.cshtml*",
-              "RelativeToolTip": "FSM\\Views\\Shared\\_Layout.cshtml*",
+              "ToolTip": "C:\\Users\\tello\\OneDrive\\Desktop\\OneDrive\\Documents\\Personal Projects\\tello-slmn\\Freelancer-Skill-Marketplace\\FSM\\FSM\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FSM\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAACgAAAAAAAAAAAAswDwAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-05-20T14:39:37.188Z",
