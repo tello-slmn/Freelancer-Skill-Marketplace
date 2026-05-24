@@ -7,19 +7,23 @@ It demonstrates CRUD operations, authentication, role-based dashboards, and clea
 #Screenshots
 ### Home Page
 ![alt text](home.png)
+### Project Page
 ![alt text](projects.png)
+### Freelancer Page
 ![alt text](freelancers.png)
+### About Page
 ![alt text](about.png)
+### Contact Page
 ![alt text](contact.png)
+### Login Page
 ![alt text](login.png)
+### Register Page
 ![alt text](register.png)
 
 ## Features
 - **Home Page**: Landing page with call-to-action buttons.
-- **Browse Skills**: Search and filter skills with levels.
+- **Browse Freelancers/Projects**: Search and filter freelancers/projects by skills or date.
 - **Post Project**: Clients can create and manage projects.
-- **Dashboard**: Personalized view of projects, messages, and profile.
-- **Messages**: Simple communication system between users.
 - **Authentication**: Login and Register with validation.
 
 ## Tech Stack
