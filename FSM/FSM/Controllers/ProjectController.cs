@@ -17,5 +17,13 @@ namespace FSM.Controllers
         {
             return View(_projectRepository.AllProjects);
         }
+
+        public IActionResult Details(int projectId)
+        {
+            var project = _projectRepository.GetProjectById(projectId);
+            if (project == null)
+                return NotFound();
+            return View(project);
+        }
     }
 }

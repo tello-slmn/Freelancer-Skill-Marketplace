@@ -1,0 +1,90 @@
+﻿@model Project
+
+@{
+    ViewData["Title"] = "Project Details";
+}
+
+<div class="container mt-4">
+    <h1 class="mb-4 text-center">
+        <i class="fa-solid fa-briefcase"></i> @Model.ProjectTitle
+    </h1>
+
+    <div class="row justify-content-center">
+        <div class="col-md-8">
+            <div class="card shadow-sm">
+                <div class="card-body">
+                    <h5 class="card-title text-primary">
+                        <i class="fa-solid fa-file-alt"></i> Description
+                    </h5>
+                    <p class="card-text">@Model.ProjectDescription</p>
+
+                    <h5 class="card-title text-success mt-4">
+                        <i class="fa-solid fa-dollar-sign"></i> Budget
+                    </h5>
+                    <p>$@Model.ProjectBudget</p>
+
+                    <h5 class="card-title text-warning mt-4">
+                        <i class="fa-solid fa-calendar-day"></i> Posted Date
+                    </h5>
+                    <p>@Model.ProjectPostedDate.ToString("MMMM dd, yyyy")</p>
+
+                    <h5 class="card-title text-info mt-4">
+                        <i class="fa-solid fa-user"></i> Client
+                    </h5>
+                    @*
+                    <p>@Model.Client?.ClientName @Model.Client?.ClientSurname</p>
+                    <p><small class="text-muted">@Model.Client?.ClientCompanyName</small></p>
+                    *@
+                    <h5 class="card-title text-secondary mt-4">
+                        <i class="fa-solid fa-handshake"></i> Status
+                    </h5>
+                    <p>@(Model.ProjectStatus ? "Open" : "Closed")</p>
+                </div>
+                <div class="card-footer text-center">
+                    @if (User.Identity.IsAuthenticated && User.IsInRole("Freelancer"))
+                    {
+                        <a asp-controller="Proposals" asp-action="Create" asp-route-projectId="@Model.ProjectID"
+                           class="btn btn-success me-2">
+                            <i class="fa-solid fa-paper-plane"></i> Submit Proposal
+                        </a>
+                    }
+                    @if (User.Identity.IsAuthenticated && User.IsInRole("Client"))
+                    {
+                        <a asp-controller="Projects" asp-action="Edit" asp-route-id="@Model.ProjectID"
+                           class="btn btn-primary me-2">
+                            <i class="fa-solid fa-edit"></i> Edit Project
+                        </a>
+                        <a asp-controller="Projects" asp-action="Delete" asp-route-id="@Model.ProjectID"
+                           class="btn btn-danger">
+                            <i class="fa-solid fa-trash"></i> Delete Project
+                        </a>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Related Proposals -->
+    <div class="row justify-content-center mt-5">
+        <div class="col-md-8">
+            <h3><i class="fa-solid fa-file-signature"></i> Proposals</h3>
+            @*@if (Model.Proposals != null && Model.Proposals.Any())
+            {
+                <ul class="list-group">
+                    @foreach (var proposal in Model.Proposals)
+                    {
+                        <li class="list-group-item">
+                            <strong>Bid:</strong> $@proposal.ProposalBidAmount <br />
+                            <strong>Message:</strong> @proposal.ProposalMessage <br />
+                            <strong>Status:</strong> @(proposal.ProposalStatus ? "Accepted" : "Pending")
+                        </li>
+                    }
+                </ul>
+            }
+            else
+            {
+                <p class="text-muted">No proposals yet.</p>
+            }*@
+        </div>
+    </div>
+</div>

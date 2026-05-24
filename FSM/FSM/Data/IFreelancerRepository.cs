@@ -6,5 +6,6 @@ namespace FSM.Data
     {
         IEnumerable<Freelancer> AllFreelancers { get; }
         Freelancer GetFreelancerById(int freelancerId);
+        void SaveChanges();
     }
 }

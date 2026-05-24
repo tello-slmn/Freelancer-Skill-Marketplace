@@ -6,5 +6,6 @@ namespace FSM.Data
     {
         IEnumerable<Project> AllProjects { get; }
         Project GetProjectById(int projectId);
+        void SaveChanges();
     }
 }

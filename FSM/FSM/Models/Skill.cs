@@ -9,6 +9,5 @@ namespace FSM.Models
         public int CategoryID { get; set; }
 
         public Category Category { get; set; }
-        public ICollection<FreelancerSkill> FreelancerSkills { get; set; }
     }
 }

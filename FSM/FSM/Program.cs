@@ -1,4 +1,5 @@
 using FSM.Data;
+using Microsoft.EntityFrameworkCore;
 
 namespace FSM
 {
@@ -12,6 +13,9 @@ namespace FSM
             builder.Services.AddScoped<IFreelancerRepository, FreelancerRepository>();
             builder.Services.AddScoped<ISkillRepository, SkillRepository>();
             builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
+
+            builder.Services.AddDbContext<AppDbContext>(options =>
+                options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
             var app = builder.Build();
             app.UseStaticFiles();

@@ -6,7 +6,13 @@ It demonstrates CRUD operations, authentication, role-based dashboards, and clea
 
 #Screenshots
 ### Home Page
-![alt text](image.png)
+![alt text](home.png)
+![alt text](projects.png)
+![alt text](freelancers.png)
+![alt text](about.png)
+![alt text](contact.png)
+![alt text](login.png)
+![alt text](register.png)
 
 ## Features
 - **Home Page**: Landing page with call-to-action buttons.
