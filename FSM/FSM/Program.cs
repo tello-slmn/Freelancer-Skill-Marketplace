@@ -11,8 +11,6 @@ namespace FSM
             builder.Services.AddControllersWithViews();
             builder.Services.AddScoped<IProjectRepository, ProjectRepository>();
             builder.Services.AddScoped<IFreelancerRepository, FreelancerRepository>();
-            builder.Services.AddScoped<ISkillRepository, SkillRepository>();
-            builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
 
             builder.Services.AddDbContext<AppDbContext>(options =>
                 options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
@@ -25,6 +23,7 @@ namespace FSM
                 name: "default",
                 pattern: "{controller=Home}/{action=Index}/{id?}");
 
+            SeedData.EnsurePopulated(app);
             app.Run();
         }
     }

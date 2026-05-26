@@ -8,8 +8,6 @@
         public string FreelancerEmail { get; set; }
         public string FreelancerBio { get; set; }
 
-        //public ICollection<Skill> FreelancerSkills { get; set; }
-        //public ICollection<Contract> Contracts { get; set; }
-        //public ICollection<Proposal> Proposals { get; set; }
+        public ICollection<FreelancerSkill> FreelancerSkills { get; set; }
     }
 }

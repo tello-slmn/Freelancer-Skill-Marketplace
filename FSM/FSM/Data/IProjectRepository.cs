@@ -4,7 +4,7 @@ namespace FSM.Data
 {
     public interface IProjectRepository
     {
-        IEnumerable<Project> AllProjects { get; }
+        IQueryable<Project> AllProjects { get; }
         Project GetProjectById(int projectId);
         void SaveChanges();
     }

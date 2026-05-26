@@ -11,7 +11,7 @@ namespace FSM.Data
             _appDbContext = appDbContext;
         }
 
-        public IEnumerable<Project> AllProjects => _appDbContext.Projects;
+        public IQueryable<Project> AllProjects => _appDbContext.Projects;
 
         public Project GetProjectById(int projectId) => _appDbContext.Projects.FirstOrDefault(p => p.ProjectID == projectId);
 
